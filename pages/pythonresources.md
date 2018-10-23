@@ -45,6 +45,7 @@ works through your web browser, so things will work right away!
  - [Introduction to Programming: mini-lectures](http://introtopython.org/) (all written in Jupyter notebooks - [project page here](https://github.com/ehmatthes/intro_programming))
  - [Another useful collection of Python tutorials](http://www.whoishostingthis.com/resources/python/)
  - Simplilearn has some trainings ([basics](http://www.simplilearn.com/mobile-app-development-and-programming/python-programming-for-beginners), [intermediate](http://www.simplilearn.com/mobile-app-development-and-programming/python-development-training), [advanced](http://www.simplilearn.com/mobile-app-development-and-programming/advanced-web-development-training)). They're not free!
+  - For live online training, you can checkout Dimensionless. Their [Data Science with R & Python] (https://dimensionless.in/data-science-using-r-python/) has a complete tutorial on Python.
 
 #### Video tutorials
  - [Coursera](https://www.coursera.org/course/interactivepython)
